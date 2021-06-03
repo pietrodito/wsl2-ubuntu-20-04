@@ -19,7 +19,8 @@ Packages=(
     fortune
     fortunes-min
 
-    ## emacs
+    ## emacs - Doom
+    fd-find
 #     hunspell-fr
 #     hunspell-en-us
 

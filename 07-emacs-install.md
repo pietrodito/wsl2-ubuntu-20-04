@@ -14,14 +14,9 @@
     make bootstrap
     sudo make install
 
-## bleeding edge git needed
-
-    sudo add-apt-repository ppa:git-core/ppa
-    sudo apt update && sudo apt upgrade -y
-
-## Other tools
-
-    sudo apt install -y fd-find ripgrep 
+    ## Fix bat and ripgrep conflic
+    apt-get download ripgrep 
+    sudo dpkg --force-overwrite -i ripgrep*.deb
 
 ## Install doom
 
