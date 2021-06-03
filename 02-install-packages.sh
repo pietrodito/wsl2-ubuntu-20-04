@@ -40,7 +40,7 @@ Packages=(
 
     ## Documents
     pandoc
-    texlive-most
+    texlive-full
 #    nextcloud-desktop
 #    remarkable-client
 #    libreoffice-fresh
