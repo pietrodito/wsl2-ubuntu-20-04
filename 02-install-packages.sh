@@ -17,7 +17,9 @@ Packages=(
     cowsay
     lolcat
     fortune
+    fortune-anarchism
     fortunes-min
+    fortunes-fr
 
     ## emacs - Doom
     fd-find
