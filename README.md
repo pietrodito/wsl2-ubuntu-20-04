@@ -25,5 +25,5 @@ cat ~/.ssh/id_rsa.pub
 ### Do the cloning
 
 ```bash
-git clone git@github.com:pietrodito/ubuntu-20.04-wsl-setup.git ~/OS-setup
+git clone git@github.com:pietrodito/wsl2-ubuntu-20-04.git ~/OS-setup
 ```
