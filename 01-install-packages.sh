@@ -22,6 +22,7 @@ Packages=(
     fortunes-fr
 
     ## emacs - Doom
+    # ripgrep # conflicts with bat for now (manual force install needed https://bugs.launchpad.net/ubuntu/+source/rust-bat/+bug/1868517/comments/32)
     fd-find
 #     hunspell-fr
 #     hunspell-en-us
